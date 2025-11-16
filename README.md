@@ -26,7 +26,7 @@ I am a dedicated developer focused on improving my coding skills, building clean
 ---
 
 ## 🔹 GitHub Stats
-![PARWEZ GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+(https://github-readme-stats.vercel.app/api?username=Parwez-Khan&show_icons=true&theme=default)
 
 ---
 
