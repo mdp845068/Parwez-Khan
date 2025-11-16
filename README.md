@@ -31,7 +31,7 @@ I am a dedicated developer focused on improving my coding skills, building clean
 ---
 
 ## 🔹 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/mp-khan-3b0107235  
+- **LinkedIn:** https://www.linkedin.com/in/mp-khan-3b0107235?  
 - **Email:** mdp845068@gmail.com  
 
 ---
